@@ -1,0 +1,7 @@
+classes= 6
+train  = /home/ayushi/yolov4/darknet/train_SAD_final.txt 
+valid  = /home/ayushi/yolov4/darknet/train_SAD_final.txt 
+names =  /home/ayushi/yolov4/darknet/obj.names
+backup = backup_SAD_final
+
+
